@@ -24,20 +24,6 @@
 ```
 
 
-
-
-    
-
-             
-             
-
-
-
-
-
-
-
-
 ## Overview
 
 Dinorun is a side scrolling platform game where the levels are procedurally generated based on audio files uplaoded by the user. 
