@@ -43,7 +43,7 @@ The application has been developed using Ruby v2.6.5, Ruby on Rails v6.0.2.2 and
 Once the above has been installed, clone or download the git repository, move to the program root directory, then run the following in the command line to install the program:
 
 ```
-bundle
+bundle install
 yarn
 ```
 
